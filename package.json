@@ -1,0 +1,23 @@
+{
+  "name": "meuponto-electron",
+  "version": "0.1.0",
+  "description": "meu ponto - client electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelfruneaux/meuponto-electron.git"
+  },
+  "keywords": [
+    "meuponto",
+    "electron"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelfruneaux/meuponto-electron/issues"
+  },
+  "homepage": "https://github.com/raphaelfruneaux/meuponto-electron#readme"
+}
